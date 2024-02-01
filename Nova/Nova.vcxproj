@@ -19,9 +19,6 @@
   <ItemGroup>
     <ClCompile Include="src\Nova\Application.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="test.txt" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
