@@ -7,5 +7,5 @@
 		#define NE_API __declspec(dllimport)
 	#endif
 #else
-	#error Nova Engine only supports Windows_x64!
+	#error Don't you know?Nova Engine only supports Windows!
 #endif
