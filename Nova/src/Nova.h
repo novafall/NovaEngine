@@ -1,9 +1,11 @@
 #pragma once
 #include <stdio.h>
-//For use by Nova Engine Application
+
+//引擎功能
 
 #include "Nova/Application.h"
+#include "Nova/Log.h"
 
-// ---Entry Point-------------------
+// ---程序入口----------------------
 #include "Nova/EntryPoint.h"
-// ---------------------------------
+// --------------------------------

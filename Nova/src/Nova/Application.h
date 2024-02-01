@@ -13,7 +13,7 @@ namespace ne
 		void Run();
 	};
 
-	//To be defined in CLIENT
+	//创建客户端
 	Application* CreateApplication();
 }
 
